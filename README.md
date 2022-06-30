@@ -13,9 +13,8 @@ I'm Laffery, nice to see you in 2022.
 </section>
   
 - 🔭 I’m going to work in [Aliyun](https://cn.aliyun.com/) 🧐
-- 🌱 I’m learning in [SJTU](https://www.sjtu.edu.cn/), major in `Software Engineering`, will graduate in this summer
+- 🌱 I graduated from [SJTU](https://www.sjtu.edu.cn/) in 2022, major in `Software Engineering`
 - 😊 I'm interested in Front-end Development and Research, most React, love Open Source
 - 🧑🏻‍💻 I’m working on developing [Kuqiochi](https://kuqiochi.cn)
 - 📫 How to reach me: 
-  - laffery.of.fiona@sjtu.edu.cn
   - 2387065420@qq.com
