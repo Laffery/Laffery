@@ -12,9 +12,9 @@ I'm Laffery, nice to see you in 2022.
   </a>
 </section>
   
-- 🔭 I’m now working in [Aliyun](https://cn.aliyun.com/) Opensource-Frontend Team 🧐
+- 🔭 I’m working in [Aliyun](https://cn.aliyun.com/) Opensource-Frontend Team 🧐
 - 🌱 I graduated from [SJTU](https://www.sjtu.edu.cn/) in 2022, major in `Software Engineering`
 - 😊 I'm interested in Frontend Development and Research, most React, love Open Source
-- 🧑🏻‍💻 I’m working on developing [Kuqiochi](https://kuqiochi.cn)
-- 📫 How to reach me: 
+- 🧑🏻‍💻 I’m working on developing [Kuqiochi](https://kuqiochi.cloud)
+- 📫 How to reach me:
   - 2387065420@qq.com
