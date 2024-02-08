@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Laffery, nice to see you in 2023.
+I'm Laffery, nice to see you in 2024.
 
 <section style="display: flex;flex-direction: row;justify-content: space-between;align-items: center;">
   <a href="https://github-readme-stats.vercel.app/api?username=Laffery&show_icons=true&count_private=true">
@@ -12,9 +12,9 @@ I'm Laffery, nice to see you in 2023.
   </a>
 </section>
   
-- 🔭 I’m working in [Aliyun](https://cn.aliyun.com/) Opensource-Frontend Team 🧐
+- 🔭 I’m working in [Aliyun](https://aliyun.com/) Opensource-Frontend Team 🧐
 - 🌱 I graduated from [SJTU](https://www.sjtu.edu.cn/) in 2022, major in `Software Engineering`
-- 😊 I'm interested in Frontend Development and Research, most React, love Open Source
+- 😊 I'm interested in Frontend Development and Research, most React/Angular, love Open Source
 - 🧑🏻‍💻 I’m working on developing my website [Kuqiochi](https://kuqiochi.cloud)
 - 📫 How to reach me:
   - [QQ Email](2387065420@qq.com)
