@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Laffery, nice to see you in 2024.
+I'm Laffery, nice to see you in 2025.
 
 <section style="display: flex;flex-direction: row;justify-content: space-between;align-items: center;">
   <a href="https://github-readme-stats.vercel.app/api?username=Laffery&show_icons=true&count_private=true">
@@ -15,5 +15,5 @@ I'm Laffery, nice to see you in 2024.
 - 🔭 I’m working in [Aliyun](https://aliyun.com/) Opensource-Frontend Team 🧐
 - 🌱 I graduated from [SJTU](https://www.sjtu.edu.cn/) in 2022, major in `Software Engineering`
 - 😊 I'm interested in Frontend Development and Research, most React/Angular, love Open Source
-- 🧑🏻‍💻 I’m working on developing my website [Kuqiochi](https://kuqiochi.cloud)
+- 🧑‍💻 I'm maintainer of [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd), an angular component library based on Ant Design
 - 📫 Reach me with [gmail](mailto:laffery86@gmail.com)
