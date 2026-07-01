@@ -17,9 +17,9 @@ I'm Laffery, nice to see you in 2026.
   <a href="https://qoder.com/" rel="nofollow"><img width="130" height="36" alt="Qoder" src="https://img.alicdn.com/imgextra/i2/O1CN01js79rH1mt5nkV0kEl_!!6000000005011-55-tps-640-180.svg" style="max-width: 100%; height: auto; max-height: 36px;"></a>
 </p>
   
-- 🔭 I’m working in [Aliyun](https://aliyun.com/) Opensource-Frontend Team 🧐
+- 🔭 I’m working in [Alibaba Cloud](https://www.alibabacloud.com/) Opensource-Frontend Team 🧐
 - 🌱 I graduated from [SJTU](https://www.sjtu.edu.cn/) in 2022, major in `Software Engineering`
 - 😊 I'm interested in Frontend Development and Research, most React/Angular, love Open Source
-- 🧑‍💻 I'm maintainer of [NG ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd), a series of angular component libraries based on Ant Design
+- 🧑‍💻 I'm the maintainer of [NG ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd), a series of angular component libraries based on Ant Design
 - ✨ AI Coding inspires creation and enriches my life, and that is what I'm doing now, welcome to talk
 - 📫 Reach me with [gmail](mailto:laffery86@gmail.com)
